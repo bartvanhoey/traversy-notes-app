@@ -1,1 +1,0 @@
-# traversy-notes-app
